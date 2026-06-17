@@ -1,0 +1,13 @@
+#socialDiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 64px;
+    width: 317px;
+}
+
+.img{
+    width: 25px;
+    height: 25px;
+    background-color: #918E9B;
+}

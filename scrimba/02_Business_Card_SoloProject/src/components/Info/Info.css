@@ -1,0 +1,40 @@
+
+#profile_picture{
+    width: 317px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#buttonsDiv{
+    display: flex;
+}
+
+h2{
+    color: #F3BF99;
+}
+
+h3{
+    color: #F5F5F5;
+    margin: 0;
+}
+
+.button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    width: 115px;
+    height: 34px;
+    border: 1px;
+    border-radius: 8px;
+}
+
+.button img{
+    width: 16px;
+    margin: 5px;
+}
+
+.linkedin{
+    background-color: #5093E2;
+    color: #FFFFFF;
+}
